@@ -1,4 +1,4 @@
-embed(HTML)
+embed[HTML:
 html:
 <html>
 <head>
@@ -21,7 +21,8 @@ html:
 </head>
 <body>
   <p>
-    <img src="26626c5e491490ff7bdd502cd077740c.jpg" alt="TNKS OS"
+    <img src="26626c5e491490
+    f7bdd502cd077740c.jpg" alt="TNKS OS"
     width="412" 
     height="273"/>
   </p>
@@ -70,3 +71,4 @@ html:
   </div>
   </body>
 </html>
+]
