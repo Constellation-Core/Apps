@@ -1,4 +1,1 @@
-App.Name=Terminal
-App.Buttons=[]
-App.URL.OtherButtonsList=[]
-App.class=Local
+{"App.Name":"Terminal","App.Version":"0.1","App.Dev":"TeknikSpace"}

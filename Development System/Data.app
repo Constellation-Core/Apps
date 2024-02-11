@@ -1,3 +1,1 @@
-Name:Penguinmod
-Version:IDK
-Author:FreshPenguin112
+{"App.Name":"Penguinmod","App.Version":"1.0","App.Dev":"Freshpenguin112"}

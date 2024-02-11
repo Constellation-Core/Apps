@@ -1,4 +1,1 @@
-App.Name=Settings
-App.Buttons=%YOURJSON%
-App.URL.OtherButtonsList=%YOURJSON%
-App.class=Local
+{"App.Name":"Settings","App.Version":"0.1","App.Dev":"TeknikSpace"}
